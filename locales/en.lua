@@ -1,11 +1,11 @@
 Locales["en"] = {
-	["cash"] = "Cash",
-	["black_money"] = "Black Money",
-	["player_nearby"] = "This player is not near you anymore!",
-	["players_nearby"] = "There are no players nearby!",
+	["cash"] = "Nakit",
+	["black_money"] = "Kara Para",
+	["player_nearby"] = "Bu Oyuncu Yakınında Değil!",
+	["players_nearby"] = "Etrafında Hiçkimse Yok!",
 	["openinv_help"] = "Opens inventory of another player",
-	["openinv_id"] = "Player ID",
-	["no_permissions"] = "You don't have permissions to do that!",
+	["openinv_id"] = "Oyuncu ID",
+	["no_permissions"] = "Bunu Yapmak İçin Yetkili Değilsin!",
 	["no_player"] = "Didn't find player with given ID!",
-	["player_inventory"] = "Player inventory"
+	["player_inventory"] = "Oyuncu Envanteri"
 }
